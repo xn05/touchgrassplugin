@@ -17,3 +17,9 @@ effects:
     ambient: false
     particles: false
     icon: false
+  - type: SLOWNESS
+    duration: 2147483647 # Integer.MAX_VALUE
+    amplifier: 9
+    ambient: false
+    particles: false
+    icon: false
